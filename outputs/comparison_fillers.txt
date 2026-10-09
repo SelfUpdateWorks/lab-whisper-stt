@@ -1,0 +1,13 @@
+PROMPT:
+Umm, let me think, like, hmm... Okay, so, uh, I was, you know, very young.
+
+UNPROMPTED:
+They didn't accept you if you weren't one of them. Several of them used to tell me that I shouldn't tell people that I was colored because I didn't look it. And I still didn't feel this until I was older and started trying to get a job. How did it manifest itself then? The first time was when I went to the telephone company, and I was very young, and I wanted to apply for a job. And the woman there in personnel asked me had I had any experience, and I told her no, that I had never held a job, and that I had no kind of experience at all. And she did say that, well, she felt she had a job that I would enjoy, that I could learn very well. And she started filling out an application, and she was filling it out.
+
+PROMPTED:
+They didn't accept you if you weren't one of them. Several of them used to tell me that I shouldn't tell people that I was colored, because I didn't look it. And, um, I still didn't feel this until I was older and started trying to get a job. How did it manifest itself then? The first time was when I went to the telephone company. And I was very young, and I wanted to apply for a job. And the woman there, the impersonel, asked me had I had any experience. And I told her no, that I had never held a job, and that I had no kind of experience at all. And she did say that, well, she felt she had a job that I would enjoy, that I could learn very well. And she started filling out an application. And she was filling it out.
+
+Word similarity: 98.3%
+Differences (unprompted → prompted):
+- '' → 'um'
+- 'in personnel' → 'the impersonel'

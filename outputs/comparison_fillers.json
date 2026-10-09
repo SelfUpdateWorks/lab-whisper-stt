@@ -1,0 +1,164 @@
+{
+  "prompt": "Umm, let me think, like, hmm... Okay, so, uh, I was, you know, very young.",
+  "prompted": {
+    "text": "They didn't accept you if you weren't one of them. Several of them used to tell me that I shouldn't tell people that I was colored, because I didn't look it. And, um, I still didn't feel this until I was older and started trying to get a job. How did it manifest itself then? The first time was when I went to the telephone company. And I was very young, and I wanted to apply for a job. And the woman there, the impersonel, asked me had I had any experience. And I told her no, that I had never held a job, and that I had no kind of experience at all. And she did say that, well, she felt she had a job that I would enjoy, that I could learn very well. And she started filling out an application. And she was filling it out.",
+    "language": "english",
+    "duration": 60.0,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.3,
+        "text": "They didn't accept you if you weren't one of them."
+      },
+      {
+        "start": 3.3,
+        "end": 7.5,
+        "text": "Several of them used to tell me that I shouldn't tell people that I was colored,"
+      },
+      {
+        "start": 7.5,
+        "end": 10.0,
+        "text": "because I didn't look it."
+      },
+      {
+        "start": 10.0,
+        "end": 21.0,
+        "text": "And, um, I still didn't feel this until I was older and started trying to get a job."
+      },
+      {
+        "start": 21.0,
+        "end": 24.0,
+        "text": "How did it manifest itself then?"
+      },
+      {
+        "start": 24.0,
+        "end": 28.0,
+        "text": "The first time was when I went to the telephone company."
+      },
+      {
+        "start": 28.0,
+        "end": 34.5,
+        "text": "And I was very young, and I wanted to apply for a job."
+      },
+      {
+        "start": 34.5,
+        "end": 40.5,
+        "text": "And the woman there, the impersonel, asked me had I had any experience."
+      },
+      {
+        "start": 40.5,
+        "end": 47.5,
+        "text": "And I told her no, that I had never held a job, and that I had no kind of experience at all."
+      },
+      {
+        "start": 47.5,
+        "end": 54.0,
+        "text": "And she did say that, well, she felt she had a job that I would enjoy, that I could learn very well."
+      },
+      {
+        "start": 54.0,
+        "end": 58.0,
+        "text": "And she started filling out an application."
+      },
+      {
+        "start": 58.0,
+        "end": 60.0,
+        "text": "And she was filling it out."
+      }
+    ]
+  },
+  "unprompted": {
+    "text": "They didn't accept you if you weren't one of them. Several of them used to tell me that I shouldn't tell people that I was colored because I didn't look it. And I still didn't feel this until I was older and started trying to get a job. How did it manifest itself then? The first time was when I went to the telephone company, and I was very young, and I wanted to apply for a job. And the woman there in personnel asked me had I had any experience, and I told her no, that I had never held a job, and that I had no kind of experience at all. And she did say that, well, she felt she had a job that I would enjoy, that I could learn very well. And she started filling out an application, and she was filling it out.",
+    "language": "english",
+    "duration": 60.0,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.32,
+        "text": "They didn't accept you if you weren't one of them."
+      },
+      {
+        "start": 3.32,
+        "end": 7.6,
+        "text": "Several of them used to tell me that I shouldn't tell people that I was colored"
+      },
+      {
+        "start": 7.6,
+        "end": 10.6,
+        "text": "because I didn't look it."
+      },
+      {
+        "start": 10.6,
+        "end": 20.6,
+        "text": "And I still didn't feel this until I was older and started trying to get a job."
+      },
+      {
+        "start": 20.6,
+        "end": 24.04,
+        "text": "How did it manifest itself then?"
+      },
+      {
+        "start": 24.04,
+        "end": 32.08,
+        "text": "The first time was when I went to the telephone company, and I was very young, and I wanted"
+      },
+      {
+        "start": 32.08,
+        "end": 34.76,
+        "text": "to apply for a job."
+      },
+      {
+        "start": 34.76,
+        "end": 42.0,
+        "text": "And the woman there in personnel asked me had I had any experience, and I told her no,"
+      },
+      {
+        "start": 42.0,
+        "end": 48.04,
+        "text": "that I had never held a job, and that I had no kind of experience at all."
+      },
+      {
+        "start": 48.04,
+        "end": 52.84,
+        "text": "And she did say that, well, she felt she had a job that I would enjoy, that I could learn"
+      },
+      {
+        "start": 52.84,
+        "end": 54.84,
+        "text": "very well."
+      },
+      {
+        "start": 54.84,
+        "end": 60.0,
+        "text": "And she started filling out an application, and she was filling it out."
+      }
+    ]
+  },
+  "metrics": {
+    "words_prompted": 149,
+    "words_unprompted": 148,
+    "word_similarity": 0.983,
+    "punctuation_prompted": 22,
+    "punctuation_unprompted": 17,
+    "prompt_terms_in_prompted": [
+      "very",
+      "young"
+    ],
+    "prompt_terms_in_unprompted": [
+      "very",
+      "young"
+    ]
+  },
+  "differences": [
+    {
+      "type": "insert",
+      "unprompted": "",
+      "prompted": "um"
+    },
+    {
+      "type": "replace",
+      "unprompted": "in personnel",
+      "prompted": "the impersonel"
+    }
+  ]
+}

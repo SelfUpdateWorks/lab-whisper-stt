@@ -1,0 +1,4 @@
+openai>=1.40
+pydub
+audioop-lts; python_version >= "3.13"
+python-dotenv

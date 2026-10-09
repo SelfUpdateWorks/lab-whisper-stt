@@ -1,0 +1,91 @@
+{
+  "text": "They didn't accept you if you weren't one of them. Several of them used to tell me that I shouldn't tell people that I was colored because I didn't look it. And I still didn't feel this until I was older and started trying to get a job. How did it manifest itself then? The first time was when I went to the telephone company and I was very young. And I wanted to apply for a job. And the woman there in personnel asked me had I had any experience. And I told her no, that I had never held a job and that I had no kind of experience at all. And she did say that, well, she felt she had a job that I would enjoy, that I could learn very well. And she started filling out an application. And she was filling it out. Until she came to nationality. And she asked me what was my nationality. And I was stunned because I had always felt that anyone could look at me and see what I was. And I told her I was colored. And she turned as red as a beet. And she said she was sorry she didn't have anything for me. We're talking about when now? Now this was in... Thirty-nine? No, no, no. This was in... Forty. About forty-seven. Forty-seven or forty-eight.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "They didn't accept you if you weren't one of them.",
+      "chunk": 0
+    },
+    {
+      "start": 3.32,
+      "end": 7.6,
+      "text": "Several of them used to tell me that I shouldn't tell people that I was colored",
+      "chunk": 0
+    },
+    {
+      "start": 7.6,
+      "end": 10.6,
+      "text": "because I didn't look it.",
+      "chunk": 0
+    },
+    {
+      "start": 10.6,
+      "end": 20.6,
+      "text": "And I still didn't feel this until I was older and started trying to get a job.",
+      "chunk": 0
+    },
+    {
+      "start": 20.6,
+      "end": 24.04,
+      "text": "How did it manifest itself then?",
+      "chunk": 0
+    },
+    {
+      "start": 24.04,
+      "end": 29.88,
+      "text": "The first time was when I went to the telephone company and I was very young.",
+      "chunk": 0
+    },
+    {
+      "start": 30.0,
+      "end": 47.0,
+      "text": "And I wanted to apply for a job. And the woman there in personnel asked me had I had any experience. And I told her no, that I had never held a job and that I had no kind of experience at all.",
+      "chunk": 1
+    },
+    {
+      "start": 47.0,
+      "end": 60.0,
+      "text": "And she did say that, well, she felt she had a job that I would enjoy, that I could learn very well. And she started filling out an application. And she was filling it out.",
+      "chunk": 1
+    },
+    {
+      "start": 60.0,
+      "end": 83.0,
+      "text": "Until she came to nationality. And she asked me what was my nationality. And I was stunned because I had always felt that anyone could look at me and see what I was. And I told her I was colored. And she turned as red as a beet. And she said she was sorry she didn't have anything for me.",
+      "chunk": 2
+    },
+    {
+      "start": 84.0,
+      "end": 86.0,
+      "text": "We're talking about when now?",
+      "chunk": 2
+    },
+    {
+      "start": 86.0,
+      "end": 88.0,
+      "text": "Now this was in...",
+      "chunk": 2
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "text": "Thirty-nine?",
+      "chunk": 2
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "text": "No, no, no. This was in...",
+      "chunk": 2
+    },
+    {
+      "start": 90.0,
+      "end": 100.52,
+      "text": "Forty. About forty-seven. Forty-seven or forty-eight.",
+      "chunk": 3
+    }
+  ],
+  "chunks": 4,
+  "prompt": "Oral history interview for the Dictionary of American Regional English. An interviewer asks an African American woman about racial identity, passing, and applying for a job at the telephone company personnel office."
+}
